@@ -1,11 +1,11 @@
 variable "ayatest" {
   type    = string
-  default = ""
+  default = "output for varibale ayatest"
 }
 
 variable "ayatest1" {
   type    = string
-  default = ""
+  default = "output for varibale ayatest1"
 }
 
 
